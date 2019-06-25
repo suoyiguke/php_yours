@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/includes/vendor/ozh/bookmarkletgen" />
+      <path value="$PROJECT_DIR$/includes/vendor/pomo/pomo" />
+      <path value="$PROJECT_DIR$/includes/vendor/ozh/phpass" />
+      <path value="$PROJECT_DIR$/includes/vendor/jakeasmith/http_build_url" />
+      <path value="$PROJECT_DIR$/includes/vendor/maxmind/web-service-common" />
+      <path value="$PROJECT_DIR$/includes/vendor/geoip2/geoip2" />
+      <path value="$PROJECT_DIR$/includes/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/includes/vendor/maxmind-db/reader" />
+      <path value="$PROJECT_DIR$/includes/vendor/composer" />
+      <path value="$PROJECT_DIR$/includes/vendor/rmccue/requests" />
+      <path value="$PROJECT_DIR$/includes/vendor/aura/sql" />
+    </include_path>
+  </component>
+</project>
